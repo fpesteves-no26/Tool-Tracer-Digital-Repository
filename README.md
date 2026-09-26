@@ -29,4 +29,4 @@ The repository is organized into two primary components:
 * Contains the compiled, standalone executable file (`.exe`) of **Tool Tracer** generated using PyInstaller.
 * Includes all necessary assets, system images, and database dependencies.
 * Designed to run directly on a target Windows terminal without requiring a local Python environment.
- 
+* Download the compiled application from (https://github.com/fpesteves-no26/Tool-Tracer-Digital-Repository/releases/tag/v1.06).
