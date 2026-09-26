@@ -21,11 +21,11 @@ It features **Tool Tracer**, a dedicated tool traceability software designed to 
 
 The repository is organized into two primary components:
 
-### 1. Source Code
+### 1. Source Code (Tool Tracer - Source Code.zip)
 * Contains the full Python source code for the **Tool Tracer** software.
 * Includes all necessary assets, system images, and database dependencies.
 
-### 2. Executable Package 
+### 2. Executable Package (Tool Tracer 1.06 - Executable File.zip)
 * Contains the compiled, standalone executable file (`.exe`) of **Tool Tracer** generated using PyInstaller.
 * Includes all necessary assets, system images, and database dependencies.
 * Designed to run directly on a target Windows terminal without requiring a local Python environment.
